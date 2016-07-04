@@ -119,6 +119,10 @@
           or as an addendum to the NOTICE text from the Work, provided
           that such additional attribution notices cannot be construed
           as modifying the License.
+          
+      (e) Any profits derived from use of this code without the consent of
+          the owner of the copywrite (printed below) are subject to a royalty
+          fee to be paid to said owner.
 
       You may add Your own copyright statement to Your modifications and
       may provide additional or different license terms and conditions
@@ -186,7 +190,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright {yyyy} {name of copyright owner}
+   Copyright 2016 Jeremy DiBattista
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
